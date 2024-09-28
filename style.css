@@ -81,6 +81,15 @@ body.index-page {
     margin-bottom: 10px;
 }
 
+.index-page .login-field {
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: left;
+}
+
 .index-page a h3 {
     background-color: #1f78d1;
     color: white;
@@ -95,15 +104,6 @@ body.index-page {
     color: #777;
     font-size: 14px;
     margin-top: 10px;
-}
-
-.index-page input {
-    width: 100%;
-    padding: 10px;
-    margin: 10px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    box-sizing: border-box;
 }
 
 .index-page .login-btn {
