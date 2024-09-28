@@ -41,6 +41,10 @@ hr {
     margin: 20px 0;
 }
 
+/* END GENERAL */
+
+
+
 /* Index Page  */
 
 
@@ -121,6 +125,8 @@ body.index-page {
 }
 
 
+/* END INDEX */
+
 
 /* Newsfeed  */
 
@@ -158,6 +164,10 @@ body.about-page {
 .about-page hr {
     border: 1px solid #ddd;
 }
+
+/* END NEWSFEED  */
+
+
 
 /* Profile Page */
 
@@ -204,6 +214,8 @@ body.profile-page {
 .profile-page p {
     color: #666;
 }
+
+/* END PROFILE  */
 
 
 
@@ -258,6 +270,8 @@ body.forget-password-page {
 }
 
 
+/* END FORGET  */
+
 /* SIGN UP PAGE */
 
 body.signup-page {
@@ -309,6 +323,7 @@ body.signup-page {
     font-size: 18px;
 }
 
+/* END SIGNUP  */
 
 
 /* RESET CONFIRM PAGE */
