@@ -204,3 +204,107 @@ body.profile-page {
 .profile-page p {
     color: #666;
 }
+
+
+
+/* FORGET PASSWORD */
+body.forget-password-page {
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.forget-password-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 4px 8px #888888;
+    width: 350px;
+    text-align: center;
+}
+
+.forget-password-page img {
+    max-width: 100px;
+    margin-bottom: 20px;
+}
+
+.forget-password-page h1 {
+    color: #d35400;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.forget-password-page .login-field {
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.forget-password-page a h3 {
+    background-color: #d35400;
+    color: white;
+    padding: 10px 0;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: block;
+    font-size: 18px;
+}
+
+
+/* SIGN UP PAGE */
+
+body.signup-page {
+    background-color: #e9f7ef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.signup-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 4px 8px #888888;
+    width: 400px;
+    text-align: center;
+}
+
+.signup-page img {
+    max-width: 100px;
+    margin-bottom: 20px;
+}
+
+.signup-page h1 {
+    color: #27ae60;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.signup-page .login-field {
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.signup-page a h3 {
+    background-color: #27ae60;
+    color: white;
+    padding: 10px 0;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: block;
+    font-size: 18px;
+}
